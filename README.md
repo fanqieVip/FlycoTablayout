@@ -14,13 +14,13 @@
 <dependency>
   <groupId>com.fanjun</groupId>
   <artifactId>FlycoTablayout</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <type>pom</type>
 </dependency>
 ```
 #### Gradle
 ```Xml
-implementation 'com.fanjun:FlycoTablayout:1.0.0'
+implementation 'com.fanjun:FlycoTablayout:1.0.1'
 ```
 
 #### 联系我
