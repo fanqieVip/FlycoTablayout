@@ -1,5 +1,9 @@
-# KeepLive for Android 安卓保活组件
-## 集成了无声音乐（已优化功耗），前台服务、双进程守护、像素保活，jobs五种保活方式
-## 主流的魅族、小米、锤子、vivo、努比亚、三星、华为等品牌，涵盖4.4至9.0的机型测试结果为，只要用户不主动杀死程序就不会死，但某些机型锁屏即断网的问题不是我能解决的。
-## 新框架发布 https://github.com/fanqieVip/AndroidOcrLibs
-### 安卓离线识别银行卡、驾驶证、身份证，准确率极高
+# FlycoTablayout for Android 安卓分页控件
+
+## 鸣谢 https://github.com/H07000223/FlycoTabLayout （文档链接）
+## 在原项目上转换为androidx项目
+
+### 新增以下特性 拷贝自：https://github.com/WinWang/FlycoTablayout
+#### 1.新增tl_textSelSize是选中字体大小
+#### 2.新增tl_textBottom是否开启Tab的字体靠下对齐，tl_text_bottom_margin只有当开启了tl_textBottom为true的时候才行，是Tab文字和tablayout底部的距离
+#### 3.新增tl_textBold是否字体加粗，NONE：不加粗  SELECT：选中的加粗  BOTH：都加粗
